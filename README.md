@@ -162,7 +162,7 @@ vision-dashboard-chakra-free/
     ├── layouts
     │   ├── Admin.js
     │   ├── Auth.js
-    │   └── RTL.js
+   
     ├── theme
     │   ├── additions
     │   │   ├── card
@@ -197,8 +197,7 @@ vision-dashboard-chakra-free/
     │   ├── Pages
     │       ├── SignIn.js
     │       └── SignUp.js
-    │   └── RTL
-    │       └── RTLPage.js
+    │  
     ├── index.js
     └── routes.js
 ```

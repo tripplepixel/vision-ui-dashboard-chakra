@@ -53,6 +53,9 @@ import { CarIcon, FulgerIcon, FulgerWhiteIcon } from 'components/Icons/Icons';
 import { Separator } from 'components/Separator/Separator';
 import React from 'react';
 import { BsArrowRight } from 'react-icons/bs';
+// At the top of your Profile component file
+import { MdFlashOn as LightningIcon } from 'react-icons/md'; 
+
 import { FaCube, FaFacebook, FaInstagram, FaPencilAlt, FaPenFancy, FaTwitter } from 'react-icons/fa';
 // Icons
 import { IoDocumentsSharp } from 'react-icons/io5';
